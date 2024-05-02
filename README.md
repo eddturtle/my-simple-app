@@ -1,4 +1,4 @@
-# Buggy-Code™ (Slim Framework 4 Skeleton Application)
+# Buggy-Code™ (Slim Framework 4 App)
 
 This is a simple web application built on the Slim Framework.
 
@@ -44,6 +44,6 @@ composer test
 
 ## :see_no_evil: Challenges
 
-The things to investigate within this app can mainly be found within [/app/routes.php](/eddturtle/my-simple-app/blob/master/app/routes.php). They will be labelled with comments. Each will present a different style of challenge, relevant to PHP, HTTP and/or web programming.
+The things to investigate within this app can mainly be found within [/app/routes.php](https://github.com/eddturtle/my-simple-app/blob/master/app/routes.php). They will be labelled with comments. Each will present a different style of challenge, relevant to PHP, HTTP and/or web programming.
 
 If you can reply to us with how you would solve them each of the problems. If there's any you can't solve, no problem, still reply - some of these will be about how you solve them, not if you can solve them.
