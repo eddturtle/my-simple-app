@@ -42,7 +42,10 @@
             "phpstan/extension-installer": true
         },
         "process-timeout": 0,
-        "sort-packages": true
+        "sort-packages": true,
+        "platform": {
+             "php": "8.0.999"
+        }
     },
     "autoload": {
         "psr-4": {
