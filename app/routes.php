@@ -34,8 +34,9 @@ return function (App $app) {
             $response->getBody()->write('Do not print (2)');
         }
 
-        // Challenge 3: Can we return the response as JSON?
-        $response->getBody()->write('All Complete!');
+        // Challenge 3: Can we return the response 'All Complete!' as JSON?
+        $body = 'All Complete!';
+        $response->getBody()->write($body);
 
         return $response;
     });

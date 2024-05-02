@@ -44,6 +44,8 @@ composer test
 
 ## :see_no_evil: Challenges
 
-The things to investigate within this app can mainly be found within [/app/routes.php](https://github.com/eddturtle/my-simple-app/blob/master/app/routes.php). They will be labelled with comments. Each will present a different style of challenge, relevant to PHP, HTTP and/or web programming.
+The things to investigate within this app can mainly be found within the file: [/app/routes.php](https://github.com/eddturtle/my-simple-app/blob/master/app/routes.php). They will be labelled with comments. Each will present a different style of challenge, relevant to PHP, HTTP and/or web programming.
 
-If you can reply to us with how you would solve them each of the problems. If there's any you can't solve, no problem, still reply - some of these will be about how you solve them, not if you can solve them.
+If you can reply to us with how you would solve them each of the problems. 
+
+**If there's any you can't solve, no problem, still reply** - some of these will be about _how_ you solve them, not if you can solve them.
